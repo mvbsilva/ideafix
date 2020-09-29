@@ -16,7 +16,7 @@ import subprocess
 #Valores Iniciais
 LIMIAR_TIME = 15       #Segundos
 TIME_OUT     = 5     #Segundos
-LIMIAR_SIZE =  512    #Bytes
+LIMIAR_SIZE =  15*(10**6)    #Bytes
 
 class UpdateThreshold():
 
