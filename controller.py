@@ -597,8 +597,4 @@ if __name__ == '__main__':
         for h2, rota in dic.items():
             print h,h2, rota
 
-    #F.imprime_grafo()
-    #F.dijkstra('h1')
-    #F.start_flow()
-    #F.newFlow('10.0.3.10','10.0.2.10', 1, 145)
-    #F.upFlow('10.0.2.10','10.0.3.10', 1, 7908)
+    
