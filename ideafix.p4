@@ -6,7 +6,7 @@ Institute of Informatics
 Marcus Vinicius Brito da Silva
 mvbsilva@inf.ufrgs.br
 
-Programmable P4 Switch to identify elephant flows.
+Programmable P4 Switch to identify elephant flows in the data planes.
 
 **/
 #include <core.p4>
