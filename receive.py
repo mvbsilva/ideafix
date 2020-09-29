@@ -38,7 +38,7 @@ import  thread, select, string
 
 TIME_OUT    = 15    #Segundos
 LIMIAR_TIME = 6     #Segundos
-LIMIAR_SIZE = 1000000    #Bytes
+LIMIAR_SIZE = 15000000    #Bytes
 
 #TCP FLAGS:
 FIN = 0x01
