@@ -1,4 +1,14 @@
 /* -*- P4_16 -*- */
+/**
+Federal University of Rio Grande do Sul
+Institute of Informatics 
+
+Marcus Vinicius Brito da Silva
+mvbsilva@inf.ufrgs.br
+
+Programmable P4 Switch to identify elephant flows.
+
+**/
 #include <core.p4>
 #include <v1model.p4>
 
