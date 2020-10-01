@@ -21,7 +21,7 @@ For execution:<br/>
 - After installing P4 environment (https://github.com/p4lang)<br/>
 ```
 ~bash ./run.sh         //Start P4 topology mininet
-~pyhon receive.py      //Start Controller/Sniffer
+~python receive.py      //Start Controller/Sniffer
 ~python stratFlows.py  //Start Workload
 ```
 
