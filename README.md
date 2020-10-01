@@ -25,6 +25,22 @@ For execution:<br/>
 ~python stratFlows.py  //Start Workload
 ```
 
+1. Start P4 topology mininet:
+```
+~bash ./run.sh
+```
+
+2. Start Controller/Sniffer
+```
+~python receive.py
+```
+
+3. Start Workload
+```
+~python stratFlows.py
+```
+
+
 
 Marcus Vinicius Brito da Silva<br/>
 mvbsilva@inf.ufrgs.br<br/>
