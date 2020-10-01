@@ -1,7 +1,7 @@
 # IDEAFIX
 
 IDEAFIX present the first approach to identify elephant flows in Internet eXchange Points (IXPs) faster by relying in programmable data planes.
-IDEAFIX takes advantage of P4 features to store and analyze the information about the size and duration of the flows entirely in the data plane.
+IDEAFIX takes advantage of P4 features (https://github.com/p4lang) to store and analyze the information about the size and duration of the flows entirely in the data plane.
 The entire IDEAFIX description and results are presented in the paper: https://doi.org/10.1109/GLOCOM.2018.8647685.
 
 
@@ -15,6 +15,15 @@ This repository contains the scripts used in the prototype and experimental eval
 * topology_net        - Mapping the infrastructure to the controller.<br/>
 * updateThreshold.py  - P4 CLI configuration and update thresholds.<br/>
 * startFlows.py       - Workload generator by Iperf3.<br/>
+
+
+For execution:<br/>
+- After installing P4 environment (https://github.com/p4lang)<br/>
+```
+~bash ./run.sh         //Start P4 topology mininet
+~pyhon receive.py      //Start Controller/Sniffer
+~python stratFlows.py  //Start Workload
+```
 
 
 Marcus Vinicius Brito da Silva<br/>
