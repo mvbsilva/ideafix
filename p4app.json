@@ -1,5 +1,5 @@
 {
-    "program": "mri.p4",
+    "program": "ideafix.p4",
     "language": "p4-16",
     "targets": {
       "multiswitch": {
