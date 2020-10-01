@@ -11,7 +11,11 @@ In a second adaptation, we extended the application of IDEAFIX to use dynamic th
 
 
 Marcus Vinicius Brito da Silva
+
 mvbsilva@inf.ufrgs.br
+
 Computer Science PhD student
+
 Federal University of Rio Grande do Sul (UFRGS)
+
 Porto Alegre, Brazil.
