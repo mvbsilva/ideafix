@@ -32,7 +32,7 @@ python receive.py
 
 3. Start Workload
 ```
-python stratFlows.py
+python startFlows.py
 ```
 
 
